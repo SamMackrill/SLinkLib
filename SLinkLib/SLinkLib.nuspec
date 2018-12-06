@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>SLinkLib</id>
+    <version>1.0.0</version>
+    <title>SourceLinkLibrary</title>
+    <authors>Aveva</authors>
+    <projectUrl>http://PROJECT_URL_HERE_OR_DELETE_THIS_LINE</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Testing c++ SourceLink</description>
+    <copyright>Copyright 2018</copyright>
+    <tags>SourceLink</tags>
+  </metadata>
+
+  <files>
+    <file src="Debug\SLinkLib.dll" target="lib\net461" />
+    <file src="Debug\SLinkLib.pdb" target="lib\net461" />
+  </files>
+
+</package>
