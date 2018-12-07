@@ -2,10 +2,13 @@
 <package >
   <metadata>
     <id>SLinkLib</id>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <title>SourceLinkLibrary</title>
     <authors>Aveva</authors>
-    <projectUrl>http://PROJECT_URL_HERE_OR_DELETE_THIS_LINE</projectUrl>
+    <projectUrl>https://github.com/SamMackrill/SLinkLib</projectUrl>
+
+    <repository type="git" url="https://github.com/SamMackrill/SLinkLib.git" commit="2dd72f306dc628860145b4986a815d3b5c86ce94"/>
+
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Testing c++ SourceLink</description>
     <copyright>Copyright 2018</copyright>

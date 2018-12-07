@@ -48,6 +48,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="SLinkLib.nuspec" />
+    <None Include="slink.json" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="HideSource.txt" />
