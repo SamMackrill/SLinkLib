@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>SLinkLib</id>
-    <version>2.0.0</version>
+    <version>2.0.1</version>
     <title>SourceLinkLibrary</title>
     <authors>Aveva</authors>
     <projectUrl>https://github.com/SamMackrill/SLinkLib</projectUrl>
@@ -16,6 +16,7 @@
   </metadata>
 
   <files>
+    <file src="slinklib.h" target="build\native\include" />
     <file src="debug\slinklib.dll" target="lib\net461" />
     <file src="debug\slinklib.pdb" target="lib\net461" />
   </files>
