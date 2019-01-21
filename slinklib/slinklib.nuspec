@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>SLinkLib</id>
-    <version>1.0.1</version>
+    <version>2.0.0</version>
     <title>SourceLinkLibrary</title>
     <authors>Aveva</authors>
     <projectUrl>https://github.com/SamMackrill/SLinkLib</projectUrl>

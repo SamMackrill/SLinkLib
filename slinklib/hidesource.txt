@@ -1,6 +1,6 @@
-net use z: \\UKCAMD5560\c$\Users\sam.mackrill\source\repos\SLinkLib
+net use z: \\UKCAMD5560\c$\Users\sam.mackrill\source\repos\slinkLib\slinklib
 z:
-msbuild SLinkLib.vcxproj
+msbuild slinklib.vcxproj
 nuget pack
 c:
 net use z: /delete
