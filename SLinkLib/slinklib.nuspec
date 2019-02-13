@@ -7,7 +7,7 @@
     <authors>Aveva</authors>
     <projectUrl>https://github.com/SamMackrill/SLinkLib</projectUrl>
 
-    <repository type="git" url="https://github.com/SamMackrill/SLinkLib.git" commit="d357870f7406fd7d2998cab678bf5da01d8e950f"/>
+    <repository type="git" url="https://github.com/SamMackrill/SLinkLib.git" commit="148a9194e108bda35418f23c773f8b28f84dc3fe"/>
 
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Testing c++ SourceLink</description>

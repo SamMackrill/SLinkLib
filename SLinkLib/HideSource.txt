@@ -1,5 +1,6 @@
 net use z: \\UKCAMD5560\c$\Users\sam.mackrill\source\repos\SLinkLib
 z:
+cd slinklib
 msbuild slinklib.vcxproj
 nuget pack
 c:
